@@ -1,6 +1,7 @@
 
+
 /**
- * File Name:   DogTriathalonParticipant
+ * File Name:   TestDogs
  * Written by:  Aaron Arlotti
  * Written on:  Feb 19, 2014
  * Class:       Intro to Programming - ONT 187
@@ -10,7 +11,12 @@
 
 package chapter4;
 
-public class DogTriathalonParticipant {
-    // TODO code here
+public class TestDogs {
+
+    public static void main(String[] args) {
+        
+    }
+
 }
+
 
