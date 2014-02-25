@@ -7,12 +7,20 @@
  * Book page:   
  */
 
-package chapter5;
+package chapter6;
 
 public class DemoIncrement {
 
     public static void main(String[] args) {
-        // TODO code here
+        int v = 4;
+        int plusPlusV = ++v;
+        
+        v = 4;
+        int vPlusPlus = v++;
+        
+        System.out.println("v is " + v);
+        System.out.println("++v is " + plusPlusV);
+        System.out.println("v++ is " + vPlusPlus);
     }
 
 }
