@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mac">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Java/Mac/dist/Mac.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
